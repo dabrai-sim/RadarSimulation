@@ -169,7 +169,7 @@ detections = pipeline.segment_and_classify(rd_map, detection_map)
    - Fine-tune on real measurements
    - Deploy on embedded hardware (Jetson Nano, Raspberry Pi)
 
-## 📚 Dependencies
+## Dependencies
 ```
 numpy
 matplotlib
@@ -180,7 +180,7 @@ keras
 scikit-learn
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Radar simulation based on FMCW principles from TI mmWave SDK
 - CNN architecture inspired by ResNet and VGG
